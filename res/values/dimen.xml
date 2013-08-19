@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2012 BuildManPro LLC
+  
+  BuildManPro LLC., Sterling, Virginia, USA - All Rights Reserved
+  
+  
+  
+  Developer :
+        Hardik Trivedi
+-->
+<resources>
+	<dimen name="ambilwarna_hsvHeight">240dp</dimen>
+	<dimen name="ambilwarna_hsvWidth">240dp</dimen>
+	<dimen name="ambilwarna_hueWidth">30dp</dimen>
+	<dimen name="ambilwarna_spacer">8dp</dimen>
+</resources>
